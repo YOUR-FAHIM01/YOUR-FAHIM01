@@ -25,11 +25,7 @@
       Competitive Programming,
       Tech Blogging</dd>
 </dl>
-<br>
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://your-website.com)
-
-<br>
 <div align="center">
     <h1> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮 </h1>
 </div>
