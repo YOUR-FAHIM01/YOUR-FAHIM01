@@ -30,10 +30,10 @@
     <h1> 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮 </h1>
 </div>
 <p align='center'>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-2e3440?style=for-the-badge"/></a>
+  <a href="https://masterapi.fun"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-2e3440?style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/💼_LINKEDIN-2e3440?style=for-the-badge"/></a>
   <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/📡_TELEGRAM-2e3440?style=for-the-badge"/></a>
-  <a href="mailto:youremail@domain.com"><img src="https://img.shields.io/badge/📧_EMAIL-2e3440?style=for-the-badge"/></a>
+  <a href="mailto:hamkarprobd@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
 
@@ -46,14 +46,14 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia" alt="FAHIM-STATS" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-FAHIM01&theme=algolia" alt="FAHIM-STATS" />
 </p>
 
 ---
 
 ### 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia&hide_border=true&&langs_count=8" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-FAHIM01&layout=compact&theme=algolia&hide_border=true&&langs_count=8" />
 
 ---
 
@@ -61,7 +61,7 @@
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓥𝓲𝓼𝓲𝓽𝓲𝓷𝓰! 💻 </h1>
 </div>
-<img src="https://count.getloli.com/get/@:YOUR_GITHUB_USERNAME?theme=gelbooru" alt="Visitor Count" />
+<img src="https://count.getloli.com/get/@:YOUR-FAHIM01?theme=gelbooru" alt="Visitor Count" />
 
 _______________________
 
