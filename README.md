@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   
-![FAHIM](./ChatGPT Image May 25, 2025, 01_49_14 AM.png)
+![FAHIM](./yourfahim.png)
 
 <h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 </h1>
 </div>
